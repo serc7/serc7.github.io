@@ -1,10 +1,12 @@
-## Welcome to GitHub Pages
+# Serena Cronin
 
-You can use the [editor on GitHub](https://github.com/serc7/serenacronin/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am a senior undergraduate student at The Ohio State University. I am studying Astronomy and Astrophysics with a minor in Spanish. I have been involved in research since 2018 and teaching since 2017. My expected graduation is Fall 2020!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Research
+### The Local Environments of Low-Redshift Supernovae
+### What Surrounds the Supermassive Blackhole Sgr A*?
 
-### Markdown
+## Teaching
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
