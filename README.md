@@ -1,6 +1,13 @@
+[![Twitter:][1.1]][1]
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[1]: http://www.twitter.com/serspace
+
 ## Research
+I have been working with Adam Leroy and Dyas Utomo as a student researcher in OSU's Department of Astronomy since 2018. Our project aims to locate supernovae and compare their radial distributions to that of the IR and UV emission of their host galaxies. I conducted part of this project during the Department of Astronomy's Summer Undergraduate Research Program (SURP) in the summer of 2019. I am also a summer 2020 NSF REU student at the National Radio Astronomy Observatory (NRAO) in Socorro, New Mexico, where I work with Juergen Ott, David Meier, and Brian Svoboda on probing the molecular gas around Sgr A*.
+
 ### The Local Environments of Low-Redshift Supernovae
-### What Surrounds the Supermassive Blackhole Sgr A*?
+
+### What Surrounds the Supermassive Black Hole Sgr A*?
 
 ## Teaching
 
