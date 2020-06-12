@@ -11,7 +11,7 @@ I have been working with Adam Leroy and Dyas Utomo as a student researcher in [O
 _Right click and open the image in a new tab to get a better look!_
 
 ### What Surrounds the Supermassive Black Hole Sgr A*?
-Coming soon!
+_Coming soon!_
 
 ## Teaching
 
