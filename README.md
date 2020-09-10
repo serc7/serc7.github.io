@@ -14,9 +14,20 @@ I have been working with Adam Leroy and Dyas Utomo as a student researcher in [O
 _Right click and open the image in a new tab to get a better look!_
 
 ### Molecular Clouds Toward the Supermassive Black Hole Sgr A*
-_Coming soon!_
+We present ∼1 arsec resolution ALMA observations of molecular clouds along the line-of-sight to Sgr A*.
+We report absorption detections that lead to the placement of 6 velocity features in either the spiral
+arms, bar, or Galactic Center (GC). We aimed at 18 high-energy molecular transitions in hopes of
+picking up clouds in the circumnuclear disk (CND) to study the environment around Sgr A*. For each
+velocity feature, or cloud, we analyzed its kinematics, chemistry, excitation, and CO isotopologues in
+order to locate it along our line-of-sight. We place 2 clouds in the Central Molecular Zone (CMZ),
+both perhaps in the 100 pc ring and possibly related to the +20 km s−1 and +50 km s−1 molecular
+clouds. We designate 3 clouds as being in the Galactic Disk, and kinematics suggest they are in
+the inner Galactic Disk, perhaps around the 3 kpc arm of the bar. We are unable to determine the
+properties of one of our clouds and thus are not able to speculate about its location. This is due to
+saturated CO isotopologue data at its velocity. We do not have a current candidate for CND material,
+though we hope to unveil a candidate by looking at emission features in a future study.
 
-<a href="serc7.github.io/s_cronin_reu_report.pdf" target="_blank">PDF.</a>
+<a href="serc7.github.io/s_cronin_reu_report.pdf" target="_blank">Click here to read my report!</a>
 
 ## Teaching
 
