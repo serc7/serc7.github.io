@@ -13,8 +13,10 @@ I have been working with Adam Leroy and Dyas Utomo as a student researcher in [O
 <img src="serc7.github.io/sne project poster.png">
 _Right click and open the image in a new tab to get a better look!_
 
-### What Surrounds the Supermassive Black Hole Sgr A*?
+### Molecular Clouds Toward the Supermassive Black Hole Sgr A*
 _Coming soon!_
+
+<a href="serc7.github.io/s_cronin_reu_report.pdf" target="_blank">PDF.</a>
 
 ## Teaching
 
