@@ -31,6 +31,4 @@ though we hope to unveil a candidate by looking at emission features in a future
 
 ## Teaching
 
-**ASTRON 1101 Laboratory Sections.** From Spring 2017 - Fall 2018, I was an instructional assistant (IA) for a general education astronomy course at OSU. During the laboratory sessions, I answered questions, facilitated group discussions, and set up teaching demos. Outside of class, I graded weekly lab reports and tutored students.
-
-**ASTRON 1101 Lecture Section.** I am now a teaching assistant (TA) to the lecture section of ASTRON 1101. I help facilitate lecture, grade assignments, proctor and grade exams, and hold office hours for students.
+**ASTRON 1101 Laboratory and Lecture Sections.** Since Spring 2017, I have been a teaching assistant (TA) for a general education astronomy course at OSU. During the laboratory sessions, I answer questions, facilitate group discussions, and set up teaching demos. Outside of class, I graded weekly lab reports and tutored students. As a lecture TA, I help facilitate lecture, grade assignments, proctor and grade exams, and hold office hours for students.
