@@ -1,6 +1,8 @@
 ## Contact
 [Follow me @serspace on Twitter!](http://www.twitter.com/serspace)
 <br> cronin.104@buckeyemail.osu.edu
+<a href="serc7.github.io/Cronin_CV_Jan21.pdf" target="_blank">CV (Updated: Jan 2021)</a>
+
 
 ## Research
 I have been working with Adam Leroy and Dyas Utomo as a student researcher in [OSU's Department of Astronomy](https://astronomy.osu.edu/) since 2018. Our project aims to locate supernovae and compare their radial distributions to that of the IR and UV emission of their host galaxies. I conducted part of this project during the Department of Astronomy's [Summer Undergraduate Research Program (SURP)](https://astronomy.osu.edu/undergraduates/undergraduate-research/surp/alumni) in the summer of 2019. This project was also the topic of my undergraduate senior thesis.
