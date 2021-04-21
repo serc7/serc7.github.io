@@ -21,7 +21,7 @@ We aim to characterize the local (2 kpc) environments of Type Ia, II, and Ibc su
 
 [Link to my undergraduate senior thesis on this topic.](https://kb.osu.edu/handle/1811/92141)
 
-<img src="serc7.github.io/sne project poster.png">
+<img src="sne project poster.png">
 _Poster from early 2020. Right click and open the image in a new tab to get a better look!_
 
 ### Molecular Clouds Toward the Supermassive Black Hole Sgr A\*
