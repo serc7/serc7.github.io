@@ -31,4 +31,4 @@ We present ∼1 arsec resolution ALMA observations of molecular clouds along the
 
 ## Teaching
 
-**ASTRON 1101 Laboratory and Lecture Sections.** Since Spring 2017, I have been a teaching assistant (TA) for a general education astronomy course at OSU. During the laboratory sessions, I answer questions, facilitate group discussions, and set up teaching demos. Outside of class, I graded weekly lab reports and tutored students. As a lecture TA, I help facilitate lecture, grade assignments, proctor and grade exams, and hold office hours for students. I also have experience in course development and using Canvas.
+**ASTRON 1101 Laboratory and Lecture Sections.** Since Spring 2017, I have been a teaching assistant (TA) for a general education astronomy course at OSU. During the laboratory sessions, I answer questions, facilitate group discussions, and set up teaching demos. Outside of class, I graded weekly lab reports and tutored students. As a lecture TA, I help facilitate lecture, grade assignments, proctor and grade exams, and hold office hours for students. I also have experience in course development and using Canvas. 
